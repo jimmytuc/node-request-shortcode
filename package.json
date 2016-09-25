@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phucpnguyenphoai@gmail.com",
+  "license": "None",
+  "dependencies": {
+    "inherits": "^2.0.3",
+    "jasmine": "^2.4.1",
+    "loadtest": "^1.4.3",
+    "lodash": "^4.16.1",
+    "request": "^2.72.0",
+    "request-promise": "^4.1.1"
+  }
+}
