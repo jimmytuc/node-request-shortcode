@@ -1,7 +1,3 @@
-'use strict';
+var client = new require('./api');
 
-var client = require('./api');
-
-var dssclient = new client(); // querying the coreservices
-
-dssclient.custinfo('0006414');
+client.custinfo('0127390');
